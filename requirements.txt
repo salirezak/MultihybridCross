@@ -1,0 +1,5 @@
+numpy==1.21.3
+prettytable==2.2.1
+restricted-input==0.3.0
+scipy==1.7.1
+wcwidth==0.2.5
